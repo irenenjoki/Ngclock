@@ -1,3 +1,5 @@
+![Screenshot (124)](https://user-images.githubusercontent.com/85219856/175945086-1f1c2862-5fc9-4fbf-a607-95be5c6fbac4.png)
+
 # NgClock
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
