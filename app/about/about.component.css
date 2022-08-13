@@ -1,0 +1,19 @@
+h1 {text-align: center;
+    color: #d00;
+  }
+  span {text-align: center;
+  }
+  
+  .aligned{
+    display: flex;
+    align-items: center;
+  }
+  body{
+    background-color: darkslategrey;
+  }
+  u { 
+    text-decoration: underline;
+  }
+  h3{
+    text-align: center;
+  }
